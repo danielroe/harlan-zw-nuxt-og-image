@@ -2,7 +2,7 @@
   "private": true,
   "name": "nuxt-og-image-playground-minimal",
   "dependencies": {
-    "@nuxt/devtools-ui-kit": "^0.5.5"
+    "@nuxt/devtools-ui-kit": "^0.8.5"
   },
   "scripts": {
     "build": "nuxi build",
